@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assignment1", "Assignment1", "{10D74326-59DB-4203-9448-60C4D332B8FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment1.Tests", "Assignment1\Assignment1.Tests\Assignment1.Tests.csproj", "{0A9834BC-7D6D-4B9B-BF9F-1AD5E43B6E67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment1.Console", "Assignment1\Assignment1.Console\Assignment1.Console.csproj", "{B79E39CC-DEA4-4A77-AFCA-56AB0B8EC543}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assignment2", "Assignment2", "{3872352A-C707-4212-8AEE-588562E73FAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment2.Console", "Assignment2\Assignment2.Console\Assignment2.Console.csproj", "{C24BF9E9-A309-4F20-8BCE-5F8A274A5D2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment2.Tests", "Assignment2\Assignment2.Tests\Assignment2.Tests.csproj", "{47E7D6C6-F060-40FD-90D2-A9E0F3F96EB8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assignment3", "Assignment3", "{C1F18E1B-900A-4C68-A6DA-38A8E3E3EF65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment3.Tests", "Assignment3\Assignment3.Tests\Assignment3.Tests.csproj", "{C2523E5B-D362-4940-BCBC-9A4F89E9CB16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment3.Console", "Assignment3\Assignment3.Console\Assignment3.Console.csproj", "{D25A10B0-1E57-4F92-8850-E055605CCC3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A9834BC-7D6D-4B9B-BF9F-1AD5E43B6E67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9834BC-7D6D-4B9B-BF9F-1AD5E43B6E67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9834BC-7D6D-4B9B-BF9F-1AD5E43B6E67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9834BC-7D6D-4B9B-BF9F-1AD5E43B6E67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B79E39CC-DEA4-4A77-AFCA-56AB0B8EC543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B79E39CC-DEA4-4A77-AFCA-56AB0B8EC543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B79E39CC-DEA4-4A77-AFCA-56AB0B8EC543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B79E39CC-DEA4-4A77-AFCA-56AB0B8EC543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C24BF9E9-A309-4F20-8BCE-5F8A274A5D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C24BF9E9-A309-4F20-8BCE-5F8A274A5D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C24BF9E9-A309-4F20-8BCE-5F8A274A5D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C24BF9E9-A309-4F20-8BCE-5F8A274A5D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47E7D6C6-F060-40FD-90D2-A9E0F3F96EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E7D6C6-F060-40FD-90D2-A9E0F3F96EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E7D6C6-F060-40FD-90D2-A9E0F3F96EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E7D6C6-F060-40FD-90D2-A9E0F3F96EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2523E5B-D362-4940-BCBC-9A4F89E9CB16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2523E5B-D362-4940-BCBC-9A4F89E9CB16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2523E5B-D362-4940-BCBC-9A4F89E9CB16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2523E5B-D362-4940-BCBC-9A4F89E9CB16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D25A10B0-1E57-4F92-8850-E055605CCC3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D25A10B0-1E57-4F92-8850-E055605CCC3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D25A10B0-1E57-4F92-8850-E055605CCC3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D25A10B0-1E57-4F92-8850-E055605CCC3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0A9834BC-7D6D-4B9B-BF9F-1AD5E43B6E67} = {10D74326-59DB-4203-9448-60C4D332B8FB}
+		{B79E39CC-DEA4-4A77-AFCA-56AB0B8EC543} = {10D74326-59DB-4203-9448-60C4D332B8FB}
+		{C24BF9E9-A309-4F20-8BCE-5F8A274A5D2C} = {3872352A-C707-4212-8AEE-588562E73FAA}
+		{47E7D6C6-F060-40FD-90D2-A9E0F3F96EB8} = {3872352A-C707-4212-8AEE-588562E73FAA}
+		{C2523E5B-D362-4940-BCBC-9A4F89E9CB16} = {C1F18E1B-900A-4C68-A6DA-38A8E3E3EF65}
+		{D25A10B0-1E57-4F92-8850-E055605CCC3E} = {C1F18E1B-900A-4C68-A6DA-38A8E3E3EF65}
+	EndGlobalSection
+EndGlobal
